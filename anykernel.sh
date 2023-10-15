@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=sphinX Kernel by fjrXTR
+kernel.string=Nocturnal Kernel by RndwnZ
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -17,6 +17,7 @@ device.name4=ocean
 device.name5=rosemary
 device.name6=secret
 device.name7=maltose
+device.name8=viva
 supported.versions=11.0-14.0
 supported.patchlevels=
 '; } # end properties
